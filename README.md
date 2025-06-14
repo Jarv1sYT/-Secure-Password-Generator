@@ -3,7 +3,7 @@ By: Marlon Rivera
 
 > - A Python-based secure password generator with customizable options for length, complexity, and clipboard copying.  
 > - Un generador seguro de contraseñas en Python con opciones personalizables de longitud, complejidad y copiado al portapapeles.
-
+> - Vídeo de explicación del SCRIPT: https://mailinternacionaledu-my.sharepoint.com/:v:/g/personal/mariveraga_uide_edu_ec/ERbMTWGoFJdBgFYeXKOTG1EBl-_TBYoVBDC0e-k4y-DWLQ?e=I75LfE
 ---
 
 ## 🌐 English
