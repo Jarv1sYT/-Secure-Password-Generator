@@ -16,9 +16,6 @@ By: Marlon Rivera
     - Lowercase
     - Numbers
     - Symbols
-- Copy to clipboard (optional)
-- GUI using Tkinter (optional)
-
 
 ## 🌐 Spanish
 
@@ -30,10 +27,4 @@ By: Marlon Rivera
     - Minúsculas
     - Números
     - Símbolos
-- Copiar al portapapeles (opcional)
-- Interfaz gráfica con Tkinter (opcional)
-
-### 🛠️ How to Use
-```bash
-python main.py
 
